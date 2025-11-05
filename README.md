@@ -62,10 +62,10 @@ API | TheMealDB REST API
   <img src="assets/chicken.png" width="600">
 </p>
 <p align="center">
-  <img src="assets/tutorialvid.png" width="600">
+  <img src="assets/recipes.png" width="600">
 </p>
 <p align="center">
-  <img src="assets/recipe.png" width="600">
+  <img src="assets/tutorialvid.png" width="600">
 </p>
 
 ---
