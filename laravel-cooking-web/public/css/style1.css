@@ -1,0 +1,7 @@
+.slider_section {
+  background-image: url('/public/images/healthy-bg.jpg'); /* Update with the actual path to your image */
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  color: white; /* Keep text color white as per your previous style */
+}
